@@ -26,3 +26,4 @@ C:\Users\ebadi\repos\Test, integration och leverans\kategoriduellen.Api\obj\Debu
 C:\Users\ebadi\repos\Test, integration och leverans\kategoriduellen.Api\obj\Debug\net10.0\kategoriduellen.Api.pdb
 C:\Users\ebadi\repos\Test, integration och leverans\kategoriduellen.Api\obj\Debug\net10.0\kategoriduellen.Api.genruntimeconfig.cache
 C:\Users\ebadi\repos\Test, integration och leverans\kategoriduellen.Api\obj\Debug\net10.0\ref\kategoriduellen.Api.dll
+C:\Users\ebadi\repos\Test, integration och leverans\kategoriduellen.Api\obj\Debug\net10.0\kategoriduellen.Api.sourcelink.json
